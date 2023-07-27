@@ -1,1 +1,1 @@
-Olá esse projeto ensina você utilizar o Git
+Esse projeto refere-se a uma análise de risco de credito utilizando machine learning
